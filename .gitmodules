@@ -1,6 +1,3 @@
 [submodule "SlateEditorUtils"]
 	path = SlateEditorUtils
 	url = https://github.com/dipi0123/Unreal_SlateEditorUtils.git
-[submodule "EditorPackageUtils"]
-	path = EditorPackageUtils
-	url = https://github.com/dipi0123/Unreal_EditorPackageUtils.git
